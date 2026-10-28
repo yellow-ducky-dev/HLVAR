@@ -1,0 +1,27 @@
+{"t": 1792750202.8433518, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.14", "mac": "02:00:00:00:00:21", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 250s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792750202.8433518, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 246s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792750202.8433518, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 246s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792750202.8433518, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 220s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792750202.8433518, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792750202.8433518, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}

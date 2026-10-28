@@ -1,0 +1,1 @@
+S3_hlvar_1 audit log contaminated by earlier runs that reused the same work folder (harness bug, verified from audit timestamps)

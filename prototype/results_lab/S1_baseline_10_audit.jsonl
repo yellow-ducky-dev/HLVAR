@@ -1,0 +1,253 @@
+{"t": 1792748032.121169, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.14", "mac": "02:00:00:00:00:21", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 250s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748032.121169, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 246s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748032.121169, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 246s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748032.121169, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 220s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748032.121169, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748032.121169, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.14", "mac": "02:00:00:00:00:21", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 255s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748037.1369374, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 251s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748037.1369374, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 251s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748037.1369374, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 225s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748037.1369374, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 224s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748037.1369374, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748037.1369374, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.4", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.14", "mac": "02:00:00:00:00:21", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 260s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748042.1572163, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 256s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748042.1572163, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 256s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748042.1572163, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 230s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748042.1572163, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 229s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748042.1572163, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 207s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748042.1572163, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748042.1572163, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.4", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.14", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 265s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748047.1734793, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 261s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748047.1734793, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 261s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748047.1734793, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 235s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748047.1734793, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 234s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748047.1734793, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 212s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748047.1734793, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748047.1734793, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.4", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.14", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 270s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748052.1907306, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 266s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748052.1907306, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 266s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748052.1907306, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 240s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748052.1907306, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 239s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748052.1907306, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 217s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748052.1907306, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748052.1907306, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.4", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.14", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 275s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748057.2073479, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 271s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748057.2073479, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 271s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748057.2073479, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 245s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748057.2073479, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 244s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748057.2073479, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 222s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748057.2073479, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748057.2073479, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.4", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.14", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 276s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748062.223519, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 276s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748062.223519, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 250s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748062.223519, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 249s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748062.223519, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 227s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748062.223519, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748062.223519, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.4", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.14", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 281s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748067.2398381, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 255s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748067.2398381, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 254s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748067.2398381, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 232s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748067.2398381, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748067.2398381, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.4", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.11", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.14", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.17", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.24", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 286s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748072.2557485, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 260s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748072.2557485, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 259s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748072.2557485, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 237s >= grace; pressure", "mode": "monitor", "executed": false, "result": "dry-run"}
+{"t": 1792748072.2557485, "ip": "10.99.0.16", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.19", "mac": "02:00:00:00:00:12", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.20", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.15", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.21", "mac": "02:00:00:00:00:14", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.18", "mac": "02:00:00:00:00:11", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.22", "mac": "02:00:00:00:00:23", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}
+{"t": 1792748072.2557485, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "candidate", "reason": "target free already reached", "mode": "monitor"}

@@ -1,0 +1,4 @@
+3.0.4 (3.0.4 (tarball))
+Linux kali 6.19.14+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.19.14-1+kali1 (2026-05-05) x86_64 GNU/Linux
+Python 3.14.8
+isc-dhclient-4.4.3-P1

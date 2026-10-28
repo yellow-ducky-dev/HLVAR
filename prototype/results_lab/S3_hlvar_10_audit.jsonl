@@ -1,0 +1,546 @@
+{"t": 1792754109.111363, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.14", "mac": "02:00:00:00:00:0c", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.15", "mac": "02:00:00:00:00:13", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.16", "mac": "02:00:00:00:00:14", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.17", "mac": "02:00:00:00:00:12", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.18", "mac": "02:00:00:00:00:0e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.19", "mac": "02:00:00:00:00:0f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.20", "mac": "02:00:00:00:00:10", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.21", "mac": "02:00:00:00:00:11", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.22", "mac": "02:00:00:00:00:15", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.23", "mac": "02:00:00:00:00:16", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.24", "mac": "02:00:00:00:00:17", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.4", "mac": "02:00:00:00:00:03", "action": "reclaim", "reason": "unassociated 93s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754109.111363, "ip": "10.99.0.5", "mac": "02:00:00:00:00:04", "action": "reclaim", "reason": "unassociated 46s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754109.111363, "ip": "10.99.0.6", "mac": "02:00:00:00:00:05", "action": "reclaim", "reason": "unassociated 42s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754109.111363, "ip": "10.99.0.8", "mac": "02:00:00:00:00:07", "action": "reclaim", "reason": "unassociated 42s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754109.111363, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754109.111363, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.4", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.5", "mac": "02:00:00:00:00:21", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.6", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.8", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.16", "mac": "02:00:00:00:00:14", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.21", "mac": "02:00:00:00:00:11", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.22", "mac": "02:00:00:00:00:15", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.24", "mac": "02:00:00:00:00:17", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.10", "mac": "02:00:00:00:00:09", "action": "reclaim", "reason": "unassociated 34s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754127.1762621, "ip": "10.99.0.7", "mac": "02:00:00:00:00:06", "action": "reclaim", "reason": "unassociated 33s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754127.1762621, "ip": "10.99.0.17", "mac": "02:00:00:00:00:12", "action": "reclaim", "reason": "unassociated 20s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754127.1762621, "ip": "10.99.0.20", "mac": "02:00:00:00:00:10", "action": "reclaim", "reason": "unassociated 20s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754127.1762621, "ip": "10.99.0.14", "mac": "02:00:00:00:00:0c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.15", "mac": "02:00:00:00:00:13", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.18", "mac": "02:00:00:00:00:0e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0d", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754127.1762621, "ip": "10.99.0.19", "mac": "02:00:00:00:00:0f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.4", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.5", "mac": "02:00:00:00:00:21", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.6", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.7", "mac": "02:00:00:00:00:29", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.8", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.10", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.11", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.16", "mac": "02:00:00:00:00:14", "action": "preserve", "reason": "unassociated 4s < grace", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.17", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.20", "mac": "02:00:00:00:00:27", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.22", "mac": "02:00:00:00:00:15", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.23", "mac": "02:00:00:00:00:28", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.24", "mac": "02:00:00:00:00:17", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754132.2008626, "ip": "10.99.0.14", "mac": "02:00:00:00:00:0c", "action": "reclaim", "reason": "unassociated 24s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754132.2008626, "ip": "10.99.0.15", "mac": "02:00:00:00:00:13", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754132.2008626, "ip": "10.99.0.18", "mac": "02:00:00:00:00:0e", "action": "reclaim", "reason": "unassociated 17s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754132.2008626, "ip": "10.99.0.13", "mac": "02:00:00:00:00:0d", "action": "reclaim", "reason": "unassociated 12s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754132.2008626, "ip": "10.99.0.19", "mac": "02:00:00:00:00:0f", "action": "reclaim", "reason": "unassociated 10s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754132.2008626, "ip": "10.99.0.21", "mac": "02:00:00:00:00:11", "action": "reclaim", "reason": "unassociated 5s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754147.2580554, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.4", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.5", "mac": "02:00:00:00:00:21", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.6", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.7", "mac": "02:00:00:00:00:29", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.8", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.10", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.11", "mac": "02:00:00:00:00:25", "action": "preserve", "reason": "unassociated 4s < grace", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.13", "mac": "02:00:00:00:00:2a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.14", "mac": "02:00:00:00:00:2b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.15", "mac": "02:00:00:00:00:2c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.17", "mac": "02:00:00:00:00:26", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.18", "mac": "02:00:00:00:00:2d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.20", "mac": "02:00:00:00:00:27", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.23", "mac": "02:00:00:00:00:28", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "preserve", "reason": "unassociated 4s < grace", "mode": "apply"}
+{"t": 1792754147.2580554, "ip": "10.99.0.16", "mac": "02:00:00:00:00:14", "action": "reclaim", "reason": "unassociated 19s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754147.2580554, "ip": "10.99.0.2", "mac": "02:00:00:00:00:1e", "action": "reclaim", "reason": "unassociated 16s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754147.2580554, "ip": "10.99.0.22", "mac": "02:00:00:00:00:15", "action": "reclaim", "reason": "unassociated 15s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754147.2580554, "ip": "10.99.0.29", "mac": "02:00:00:00:00:1c", "action": "reclaim", "reason": "unassociated 12s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754147.2580554, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.2", "mac": "02:00:00:00:00:33", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.4", "mac": "02:00:00:00:00:20", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.6", "mac": "02:00:00:00:00:22", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.7", "mac": "02:00:00:00:00:29", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.8", "mac": "02:00:00:00:00:23", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.10", "mac": "02:00:00:00:00:24", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "preserve", "reason": "unassociated 4s < grace", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.13", "mac": "02:00:00:00:00:2a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.14", "mac": "02:00:00:00:00:2b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.15", "mac": "02:00:00:00:00:2c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.18", "mac": "02:00:00:00:00:2d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.21", "mac": "02:00:00:00:00:2f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.22", "mac": "02:00:00:00:00:30", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.23", "mac": "02:00:00:00:00:28", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.24", "mac": "02:00:00:00:00:31", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.27", "mac": "02:00:00:00:00:1a", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754160.3057384, "ip": "10.99.0.11", "mac": "02:00:00:00:00:25", "action": "reclaim", "reason": "unassociated 17s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754160.3057384, "ip": "10.99.0.30", "mac": "02:00:00:00:00:1d", "action": "reclaim", "reason": "unassociated 17s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754160.3057384, "ip": "10.99.0.3", "mac": "02:00:00:00:00:1f", "action": "reclaim", "reason": "unassociated 14s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754160.3057384, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.20", "mac": "02:00:00:00:00:27", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754160.3057384, "ip": "10.99.0.5", "mac": "02:00:00:00:00:21", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.2", "mac": "02:00:00:00:00:33", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.3", "mac": "02:00:00:00:00:34", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.11", "mac": "02:00:00:00:00:35", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.14", "mac": "02:00:00:00:00:2b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.15", "mac": "02:00:00:00:00:2c", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.16", "mac": "02:00:00:00:00:36", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.17", "mac": "02:00:00:00:00:37", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.18", "mac": "02:00:00:00:00:2d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.21", "mac": "02:00:00:00:00:2f", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.22", "mac": "02:00:00:00:00:30", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.24", "mac": "02:00:00:00:00:31", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.25", "mac": "02:00:00:00:00:18", "action": "reclaim", "reason": "unassociated 27s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754173.3555589, "ip": "10.99.0.26", "mac": "02:00:00:00:00:19", "action": "reclaim", "reason": "unassociated 27s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754173.3555589, "ip": "10.99.0.20", "mac": "02:00:00:00:00:27", "action": "reclaim", "reason": "unassociated 22s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754173.3555589, "ip": "10.99.0.5", "mac": "02:00:00:00:00:21", "action": "reclaim", "reason": "unassociated 21s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754173.3555589, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.10", "mac": "02:00:00:00:00:24", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.7", "mac": "02:00:00:00:00:29", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.8", "mac": "02:00:00:00:00:23", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.23", "mac": "02:00:00:00:00:28", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.4", "mac": "02:00:00:00:00:20", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.6", "mac": "02:00:00:00:00:22", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754173.3555589, "ip": "10.99.0.13", "mac": "02:00:00:00:00:2a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.2", "mac": "02:00:00:00:00:33", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.3", "mac": "02:00:00:00:00:34", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.11", "mac": "02:00:00:00:00:35", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.14", "mac": "02:00:00:00:00:2b", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.16", "mac": "02:00:00:00:00:36", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.17", "mac": "02:00:00:00:00:37", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.18", "mac": "02:00:00:00:00:2d", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.20", "mac": "02:00:00:00:00:38", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.24", "mac": "02:00:00:00:00:31", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.25", "mac": "02:00:00:00:00:39", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.12", "mac": "02:00:00:00:00:0b", "action": "reclaim", "reason": "unassociated 26s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754182.3891485, "ip": "10.99.0.10", "mac": "02:00:00:00:00:24", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754182.3891485, "ip": "10.99.0.7", "mac": "02:00:00:00:00:29", "action": "reclaim", "reason": "unassociated 22s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754182.3891485, "ip": "10.99.0.8", "mac": "02:00:00:00:00:23", "action": "reclaim", "reason": "unassociated 22s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754182.3891485, "ip": "10.99.0.23", "mac": "02:00:00:00:00:28", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.4", "mac": "02:00:00:00:00:20", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.6", "mac": "02:00:00:00:00:22", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.13", "mac": "02:00:00:00:00:2a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.21", "mac": "02:00:00:00:00:2f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.15", "mac": "02:00:00:00:00:2c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754182.3891485, "ip": "10.99.0.22", "mac": "02:00:00:00:00:30", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.2", "mac": "02:00:00:00:00:33", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.3", "mac": "02:00:00:00:00:34", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.5", "mac": "02:00:00:00:00:3d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.7", "mac": "02:00:00:00:00:3f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.8", "mac": "02:00:00:00:00:3e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.11", "mac": "02:00:00:00:00:35", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.16", "mac": "02:00:00:00:00:36", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.17", "mac": "02:00:00:00:00:37", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.20", "mac": "02:00:00:00:00:38", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.24", "mac": "02:00:00:00:00:31", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.25", "mac": "02:00:00:00:00:39", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.30", "mac": "02:00:00:00:00:3c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.23", "mac": "02:00:00:00:00:28", "action": "reclaim", "reason": "unassociated 29s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754189.4446144, "ip": "10.99.0.4", "mac": "02:00:00:00:00:20", "action": "reclaim", "reason": "unassociated 26s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754189.4446144, "ip": "10.99.0.28", "mac": "02:00:00:00:00:1b", "action": "reclaim", "reason": "unassociated 26s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754189.4446144, "ip": "10.99.0.6", "mac": "02:00:00:00:00:22", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754189.4446144, "ip": "10.99.0.13", "mac": "02:00:00:00:00:2a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.21", "mac": "02:00:00:00:00:2f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.15", "mac": "02:00:00:00:00:2c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.22", "mac": "02:00:00:00:00:30", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.14", "mac": "02:00:00:00:00:2b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754189.4446144, "ip": "10.99.0.18", "mac": "02:00:00:00:00:2d", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.3", "mac": "02:00:00:00:00:34", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.5", "mac": "02:00:00:00:00:3d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.7", "mac": "02:00:00:00:00:3f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.8", "mac": "02:00:00:00:00:3e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.10", "mac": "02:00:00:00:00:40", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.11", "mac": "02:00:00:00:00:35", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.12", "mac": "02:00:00:00:00:41", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.20", "mac": "02:00:00:00:00:38", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.23", "mac": "02:00:00:00:00:42", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.25", "mac": "02:00:00:00:00:39", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.28", "mac": "02:00:00:00:00:43", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.30", "mac": "02:00:00:00:00:3c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.13", "mac": "02:00:00:00:00:2a", "action": "reclaim", "reason": "unassociated 33s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754200.5158124, "ip": "10.99.0.9", "mac": "02:00:00:00:00:08", "action": "reclaim", "reason": "unassociated 29s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754200.5158124, "ip": "10.99.0.21", "mac": "02:00:00:00:00:2f", "action": "reclaim", "reason": "unassociated 28s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754200.5158124, "ip": "10.99.0.15", "mac": "02:00:00:00:00:2c", "action": "reclaim", "reason": "unassociated 27s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754200.5158124, "ip": "10.99.0.22", "mac": "02:00:00:00:00:30", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.14", "mac": "02:00:00:00:00:2b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.18", "mac": "02:00:00:00:00:2d", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.2", "mac": "02:00:00:00:00:33", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.16", "mac": "02:00:00:00:00:36", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.17", "mac": "02:00:00:00:00:37", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754200.5158124, "ip": "10.99.0.24", "mac": "02:00:00:00:00:31", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.4", "mac": "02:00:00:00:00:44", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.6", "mac": "02:00:00:00:00:45", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.7", "mac": "02:00:00:00:00:3f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.8", "mac": "02:00:00:00:00:3e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.9", "mac": "02:00:00:00:00:46", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.10", "mac": "02:00:00:00:00:40", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.12", "mac": "02:00:00:00:00:41", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.13", "mac": "02:00:00:00:00:47", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.20", "mac": "02:00:00:00:00:38", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.23", "mac": "02:00:00:00:00:42", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.25", "mac": "02:00:00:00:00:39", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.28", "mac": "02:00:00:00:00:43", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.30", "mac": "02:00:00:00:00:3c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.22", "mac": "02:00:00:00:00:30", "action": "reclaim", "reason": "unassociated 41s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754216.5745504, "ip": "10.99.0.14", "mac": "02:00:00:00:00:2b", "action": "reclaim", "reason": "unassociated 36s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754216.5745504, "ip": "10.99.0.18", "mac": "02:00:00:00:00:2d", "action": "reclaim", "reason": "unassociated 35s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754216.5745504, "ip": "10.99.0.2", "mac": "02:00:00:00:00:33", "action": "reclaim", "reason": "unassociated 27s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754216.5745504, "ip": "10.99.0.16", "mac": "02:00:00:00:00:36", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.17", "mac": "02:00:00:00:00:37", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.24", "mac": "02:00:00:00:00:31", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.3", "mac": "02:00:00:00:00:34", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.5", "mac": "02:00:00:00:00:3d", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754216.5745504, "ip": "10.99.0.11", "mac": "02:00:00:00:00:35", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.4", "mac": "02:00:00:00:00:44", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.6", "mac": "02:00:00:00:00:45", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.7", "mac": "02:00:00:00:00:3f", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.9", "mac": "02:00:00:00:00:46", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.10", "mac": "02:00:00:00:00:40", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.12", "mac": "02:00:00:00:00:41", "action": "preserve", "reason": "unassociated 3s < grace", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.13", "mac": "02:00:00:00:00:47", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.14", "mac": "02:00:00:00:00:48", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.15", "mac": "02:00:00:00:00:49", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.18", "mac": "02:00:00:00:00:4a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.21", "mac": "02:00:00:00:00:4b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.22", "mac": "02:00:00:00:00:4c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.23", "mac": "02:00:00:00:00:42", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.28", "mac": "02:00:00:00:00:43", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.16", "mac": "02:00:00:00:00:36", "action": "reclaim", "reason": "unassociated 37s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754226.6154737, "ip": "10.99.0.17", "mac": "02:00:00:00:00:37", "action": "reclaim", "reason": "unassociated 37s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754226.6154737, "ip": "10.99.0.19", "mac": "02:00:00:00:00:2e", "action": "reclaim", "reason": "unassociated 37s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754226.6154737, "ip": "10.99.0.24", "mac": "02:00:00:00:00:31", "action": "reclaim", "reason": "unassociated 34s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754226.6154737, "ip": "10.99.0.3", "mac": "02:00:00:00:00:34", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.5", "mac": "02:00:00:00:00:3d", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.11", "mac": "02:00:00:00:00:35", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.20", "mac": "02:00:00:00:00:38", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.25", "mac": "02:00:00:00:00:39", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754226.6154737, "ip": "10.99.0.8", "mac": "02:00:00:00:00:3e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.2", "mac": "02:00:00:00:00:4e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.4", "mac": "02:00:00:00:00:44", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.6", "mac": "02:00:00:00:00:45", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.9", "mac": "02:00:00:00:00:46", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.13", "mac": "02:00:00:00:00:47", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.14", "mac": "02:00:00:00:00:48", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.15", "mac": "02:00:00:00:00:49", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.16", "mac": "02:00:00:00:00:4f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.17", "mac": "02:00:00:00:00:50", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.18", "mac": "02:00:00:00:00:4a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.19", "mac": "02:00:00:00:00:51", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.21", "mac": "02:00:00:00:00:4b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.22", "mac": "02:00:00:00:00:4c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.28", "mac": "02:00:00:00:00:43", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.30", "mac": "02:00:00:00:00:4d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.3", "mac": "02:00:00:00:00:34", "action": "reclaim", "reason": "unassociated 35s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754235.6526046, "ip": "10.99.0.29", "mac": "02:00:00:00:00:32", "action": "reclaim", "reason": "unassociated 35s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754235.6526046, "ip": "10.99.0.5", "mac": "02:00:00:00:00:3d", "action": "reclaim", "reason": "unassociated 28s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754235.6526046, "ip": "10.99.0.11", "mac": "02:00:00:00:00:35", "action": "reclaim", "reason": "unassociated 28s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754235.6526046, "ip": "10.99.0.20", "mac": "02:00:00:00:00:38", "action": "reclaim", "reason": "unassociated 19s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754235.6526046, "ip": "10.99.0.25", "mac": "02:00:00:00:00:39", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.8", "mac": "02:00:00:00:00:3e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.12", "mac": "02:00:00:00:00:41", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.10", "mac": "02:00:00:00:00:40", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.7", "mac": "02:00:00:00:00:3f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754235.6526046, "ip": "10.99.0.23", "mac": "02:00:00:00:00:42", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.2", "mac": "02:00:00:00:00:4e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.3", "mac": "02:00:00:00:00:55", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.4", "mac": "02:00:00:00:00:44", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.6", "mac": "02:00:00:00:00:45", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.13", "mac": "02:00:00:00:00:47", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.15", "mac": "02:00:00:00:00:49", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.16", "mac": "02:00:00:00:00:4f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.17", "mac": "02:00:00:00:00:50", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.18", "mac": "02:00:00:00:00:4a", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.19", "mac": "02:00:00:00:00:51", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.20", "mac": "02:00:00:00:00:52", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.21", "mac": "02:00:00:00:00:4b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.22", "mac": "02:00:00:00:00:4c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.24", "mac": "02:00:00:00:00:53", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.29", "mac": "02:00:00:00:00:54", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.30", "mac": "02:00:00:00:00:4d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.25", "mac": "02:00:00:00:00:39", "action": "reclaim", "reason": "unassociated 24s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754241.6787121, "ip": "10.99.0.8", "mac": "02:00:00:00:00:3e", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754241.6787121, "ip": "10.99.0.12", "mac": "02:00:00:00:00:41", "action": "reclaim", "reason": "unassociated 18s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754241.6787121, "ip": "10.99.0.10", "mac": "02:00:00:00:00:40", "action": "reclaim", "reason": "unassociated 16s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754241.6787121, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.7", "mac": "02:00:00:00:00:3f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.23", "mac": "02:00:00:00:00:42", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.9", "mac": "02:00:00:00:00:46", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.14", "mac": "02:00:00:00:00:48", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754241.6787121, "ip": "10.99.0.28", "mac": "02:00:00:00:00:43", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.2", "mac": "02:00:00:00:00:4e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.3", "mac": "02:00:00:00:00:55", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.5", "mac": "02:00:00:00:00:56", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.8", "mac": "02:00:00:00:00:57", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.10", "mac": "02:00:00:00:00:58", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.11", "mac": "02:00:00:00:00:59", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.13", "mac": "02:00:00:00:00:47", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.16", "mac": "02:00:00:00:00:4f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.17", "mac": "02:00:00:00:00:50", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.19", "mac": "02:00:00:00:00:51", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.20", "mac": "02:00:00:00:00:52", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.22", "mac": "02:00:00:00:00:4c", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.24", "mac": "02:00:00:00:00:53", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.29", "mac": "02:00:00:00:00:54", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.30", "mac": "02:00:00:00:00:4d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.26", "mac": "02:00:00:00:00:3a", "action": "reclaim", "reason": "unassociated 26s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754251.7173743, "ip": "10.99.0.7", "mac": "02:00:00:00:00:3f", "action": "reclaim", "reason": "unassociated 25s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754251.7173743, "ip": "10.99.0.23", "mac": "02:00:00:00:00:42", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754251.7173743, "ip": "10.99.0.9", "mac": "02:00:00:00:00:46", "action": "reclaim", "reason": "unassociated 18s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754251.7173743, "ip": "10.99.0.14", "mac": "02:00:00:00:00:48", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.28", "mac": "02:00:00:00:00:43", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.4", "mac": "02:00:00:00:00:44", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.6", "mac": "02:00:00:00:00:45", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.18", "mac": "02:00:00:00:00:4a", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.21", "mac": "02:00:00:00:00:4b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754251.7173743, "ip": "10.99.0.15", "mac": "02:00:00:00:00:49", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.2", "mac": "02:00:00:00:00:4e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.3", "mac": "02:00:00:00:00:55", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.5", "mac": "02:00:00:00:00:56", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.7", "mac": "02:00:00:00:00:5e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.8", "mac": "02:00:00:00:00:57", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.10", "mac": "02:00:00:00:00:58", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.11", "mac": "02:00:00:00:00:59", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.12", "mac": "02:00:00:00:00:5a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.16", "mac": "02:00:00:00:00:4f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.17", "mac": "02:00:00:00:00:50", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.19", "mac": "02:00:00:00:00:51", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.20", "mac": "02:00:00:00:00:52", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.23", "mac": "02:00:00:00:00:5b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.24", "mac": "02:00:00:00:00:53", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.25", "mac": "02:00:00:00:00:5c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.26", "mac": "02:00:00:00:00:5d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.29", "mac": "02:00:00:00:00:54", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.30", "mac": "02:00:00:00:00:4d", "action": "preserve", "reason": "unassociated 3s < grace", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.14", "mac": "02:00:00:00:00:48", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754258.746941, "ip": "10.99.0.28", "mac": "02:00:00:00:00:43", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754258.746941, "ip": "10.99.0.4", "mac": "02:00:00:00:00:44", "action": "reclaim", "reason": "unassociated 17s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754258.746941, "ip": "10.99.0.6", "mac": "02:00:00:00:00:45", "action": "reclaim", "reason": "unassociated 17s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754258.746941, "ip": "10.99.0.18", "mac": "02:00:00:00:00:4a", "action": "reclaim", "reason": "unassociated 17s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754258.746941, "ip": "10.99.0.21", "mac": "02:00:00:00:00:4b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.15", "mac": "02:00:00:00:00:49", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.22", "mac": "02:00:00:00:00:4c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754258.746941, "ip": "10.99.0.13", "mac": "02:00:00:00:00:47", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.2", "mac": "02:00:00:00:00:4e", "action": "preserve", "reason": "unassociated 3s < grace", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.3", "mac": "02:00:00:00:00:55", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.4", "mac": "02:00:00:00:00:62", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.5", "mac": "02:00:00:00:00:56", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.6", "mac": "02:00:00:00:00:64", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.7", "mac": "02:00:00:00:00:5e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.8", "mac": "02:00:00:00:00:57", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.9", "mac": "02:00:00:00:00:5f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.10", "mac": "02:00:00:00:00:58", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.11", "mac": "02:00:00:00:00:59", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.12", "mac": "02:00:00:00:00:5a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.14", "mac": "02:00:00:00:00:60", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.16", "mac": "02:00:00:00:00:4f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.17", "mac": "02:00:00:00:00:50", "action": "preserve", "reason": "unassociated 4s < grace", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.18", "mac": "02:00:00:00:00:61", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.23", "mac": "02:00:00:00:00:5b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.24", "mac": "02:00:00:00:00:53", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.25", "mac": "02:00:00:00:00:5c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.26", "mac": "02:00:00:00:00:5d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.28", "mac": "02:00:00:00:00:63", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.29", "mac": "02:00:00:00:00:54", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754269.787505, "ip": "10.99.0.21", "mac": "02:00:00:00:00:4b", "action": "reclaim", "reason": "unassociated 27s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754269.787505, "ip": "10.99.0.15", "mac": "02:00:00:00:00:49", "action": "reclaim", "reason": "unassociated 23s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754269.787505, "ip": "10.99.0.22", "mac": "02:00:00:00:00:4c", "action": "reclaim", "reason": "unassociated 20s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754269.787505, "ip": "10.99.0.13", "mac": "02:00:00:00:00:47", "action": "reclaim", "reason": "unassociated 19s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754269.787505, "ip": "10.99.0.30", "mac": "02:00:00:00:00:4d", "action": "reclaim", "reason": "unassociated 14s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754269.787505, "ip": "10.99.0.19", "mac": "02:00:00:00:00:51", "action": "reclaim", "reason": "unassociated 11s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754269.787505, "ip": "10.99.0.20", "mac": "02:00:00:00:00:52", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.4", "mac": "02:00:00:00:00:62", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.6", "mac": "02:00:00:00:00:64", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.7", "mac": "02:00:00:00:00:5e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.8", "mac": "02:00:00:00:00:57", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.9", "mac": "02:00:00:00:00:5f", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.10", "mac": "02:00:00:00:00:58", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.11", "mac": "02:00:00:00:00:59", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.12", "mac": "02:00:00:00:00:5a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.13", "mac": "02:00:00:00:00:65", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.14", "mac": "02:00:00:00:00:60", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.15", "mac": "02:00:00:00:00:66", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.18", "mac": "02:00:00:00:00:61", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.19", "mac": "02:00:00:00:00:67", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.21", "mac": "02:00:00:00:00:68", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.22", "mac": "02:00:00:00:00:69", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.28", "mac": "02:00:00:00:00:63", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.20", "mac": "02:00:00:00:00:52", "action": "reclaim", "reason": "unassociated 24s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754286.8562117, "ip": "10.99.0.17", "mac": "02:00:00:00:00:50", "action": "reclaim", "reason": "unassociated 21s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754286.8562117, "ip": "10.99.0.2", "mac": "02:00:00:00:00:4e", "action": "reclaim", "reason": "unassociated 20s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754286.8562117, "ip": "10.99.0.5", "mac": "02:00:00:00:00:56", "action": "reclaim", "reason": "unassociated 17s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754286.8562117, "ip": "10.99.0.24", "mac": "02:00:00:00:00:53", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.29", "mac": "02:00:00:00:00:54", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.16", "mac": "02:00:00:00:00:4f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.23", "mac": "02:00:00:00:00:5b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.25", "mac": "02:00:00:00:00:5c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754286.8562117, "ip": "10.99.0.3", "mac": "02:00:00:00:00:55", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.2", "mac": "02:00:00:00:00:6c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.5", "mac": "02:00:00:00:00:6d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.6", "mac": "02:00:00:00:00:64", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.7", "mac": "02:00:00:00:00:5e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.10", "mac": "02:00:00:00:00:58", "action": "preserve", "reason": "unassociated 3s < grace", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.11", "mac": "02:00:00:00:00:59", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.12", "mac": "02:00:00:00:00:5a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.13", "mac": "02:00:00:00:00:65", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.14", "mac": "02:00:00:00:00:60", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.15", "mac": "02:00:00:00:00:66", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.18", "mac": "02:00:00:00:00:61", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.19", "mac": "02:00:00:00:00:67", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.21", "mac": "02:00:00:00:00:68", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.22", "mac": "02:00:00:00:00:69", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.26", "mac": "02:00:00:00:00:6a", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.28", "mac": "02:00:00:00:00:63", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.30", "mac": "02:00:00:00:00:6b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.24", "mac": "02:00:00:00:00:53", "action": "reclaim", "reason": "unassociated 27s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754296.8953607, "ip": "10.99.0.29", "mac": "02:00:00:00:00:54", "action": "reclaim", "reason": "unassociated 26s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754296.8953607, "ip": "10.99.0.16", "mac": "02:00:00:00:00:4f", "action": "reclaim", "reason": "unassociated 22s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754296.8953607, "ip": "10.99.0.23", "mac": "02:00:00:00:00:5b", "action": "reclaim", "reason": "unassociated 21s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754296.8953607, "ip": "10.99.0.25", "mac": "02:00:00:00:00:5c", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.3", "mac": "02:00:00:00:00:55", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.8", "mac": "02:00:00:00:00:57", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.9", "mac": "02:00:00:00:00:5f", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754296.8953607, "ip": "10.99.0.4", "mac": "02:00:00:00:00:62", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.2", "mac": "02:00:00:00:00:6c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.5", "mac": "02:00:00:00:00:6d", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.13", "mac": "02:00:00:00:00:65", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.16", "mac": "02:00:00:00:00:6e", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.17", "mac": "02:00:00:00:00:6f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.19", "mac": "02:00:00:00:00:70", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.20", "mac": "02:00:00:00:00:71", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.21", "mac": "02:00:00:00:00:68", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.22", "mac": "02:00:00:00:00:69", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.23", "mac": "02:00:00:00:00:72", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.24", "mac": "02:00:00:00:00:73", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.26", "mac": "02:00:00:00:00:6a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.28", "mac": "02:00:00:00:00:63", "action": "preserve", "reason": "unassociated 3s < grace", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.25", "mac": "02:00:00:00:00:5c", "action": "reclaim", "reason": "unassociated 37s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754313.9577916, "ip": "10.99.0.3", "mac": "02:00:00:00:00:55", "action": "reclaim", "reason": "unassociated 33s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754313.9577916, "ip": "10.99.0.8", "mac": "02:00:00:00:00:57", "action": "reclaim", "reason": "unassociated 28s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754313.9577916, "ip": "10.99.0.9", "mac": "02:00:00:00:00:5f", "action": "reclaim", "reason": "unassociated 27s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754313.9577916, "ip": "10.99.0.4", "mac": "02:00:00:00:00:62", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.10", "mac": "02:00:00:00:00:58", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.18", "mac": "02:00:00:00:00:61", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.11", "mac": "02:00:00:00:00:59", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.14", "mac": "02:00:00:00:00:60", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.7", "mac": "02:00:00:00:00:5e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.15", "mac": "02:00:00:00:00:66", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.30", "mac": "02:00:00:00:00:6b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754313.9577916, "ip": "10.99.0.6", "mac": "02:00:00:00:00:64", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.2", "mac": "02:00:00:00:00:6c", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.3", "mac": "02:00:00:00:00:76", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.5", "mac": "02:00:00:00:00:6d", "action": "preserve", "reason": "unassociated 0s < grace", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.8", "mac": "02:00:00:00:00:77", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.16", "mac": "02:00:00:00:00:6e", "action": "preserve", "reason": "unassociated 2s < grace", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.17", "mac": "02:00:00:00:00:6f", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.19", "mac": "02:00:00:00:00:70", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.20", "mac": "02:00:00:00:00:71", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.21", "mac": "02:00:00:00:00:68", "action": "preserve", "reason": "unassociated 1s < grace", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.23", "mac": "02:00:00:00:00:72", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.24", "mac": "02:00:00:00:00:73", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.25", "mac": "02:00:00:00:00:74", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.26", "mac": "02:00:00:00:00:6a", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.27", "mac": "02:00:00:00:00:3b", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.29", "mac": "02:00:00:00:00:75", "action": "preserve", "reason": "associated", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.4", "mac": "02:00:00:00:00:62", "action": "reclaim", "reason": "unassociated 36s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754327.011801, "ip": "10.99.0.10", "mac": "02:00:00:00:00:58", "action": "reclaim", "reason": "unassociated 33s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754327.011801, "ip": "10.99.0.18", "mac": "02:00:00:00:00:61", "action": "reclaim", "reason": "unassociated 31s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754327.011801, "ip": "10.99.0.11", "mac": "02:00:00:00:00:59", "action": "reclaim", "reason": "unassociated 30s >= grace; pressure", "mode": "apply", "executed": true, "result": "IPv4 lease deleted."}
+{"t": 1792754327.011801, "ip": "10.99.0.14", "mac": "02:00:00:00:00:60", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.7", "mac": "02:00:00:00:00:5e", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.15", "mac": "02:00:00:00:00:66", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.30", "mac": "02:00:00:00:00:6b", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.6", "mac": "02:00:00:00:00:64", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.28", "mac": "02:00:00:00:00:63", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.22", "mac": "02:00:00:00:00:69", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
+{"t": 1792754327.011801, "ip": "10.99.0.13", "mac": "02:00:00:00:00:65", "action": "candidate", "reason": "target free already reached", "mode": "apply"}
